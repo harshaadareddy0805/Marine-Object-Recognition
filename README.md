@@ -9,6 +9,10 @@ Image recognition is a widely used technology in various applications, enabling 
 In this project, we propose a Mobile-Net based approach for marine object recognition, aiming to accurately identify marine objects and classify them by name. The model is trained and evaluated on different types of marine species datasets to ensure good performance across different image conditions. 
 
 
+![prediction image](https://github.com/user-attachments/assets/963f8c88-19c9-44cb-b5ca-eff799b8fb75)
+
+
+
 
 
 PROBLEM STATEMENT:
@@ -21,7 +25,7 @@ The dataset used in this project includes images of 23 different marine species.
 Due to GitHub's file size limitations, the dataset is not included in the repository.
 
 **Download the dataset from the following link:**  
-[Download Dataset](https://drive.google.com/file/d/your-dataset-link-here/view?usp=sharing)  
+[Download Dataset](https://www.dropbox.com/scl/fi/cyj7uv6t4765cz5ao67bv/DATASET-1-ZIP.zip?rlkey=afvucl5bxh94zdhhzt0w0ce8t&st=ouj80p99&dl=0)  
 
 
 MODEL FILE:
@@ -30,7 +34,7 @@ The trained MobileNet model is saved in an `.h5` format.
 You can download it using the following link:
 
 **Download Trained MobileNet Model (.h5):**  
-[Download Model](https://drive.google.com/file/d/your-model-link-here/view?usp=sharing) 
+[Download Model](https://www.dropbox.com/scl/fi/w1uxs3vsd37tqmidje7pm/Mobilenet.h5?rlkey=891562brvvxn28dp2vq0qxh2e&st=2pyr7961&dl=0)) 
 
 DESIGN STRATEGY:
 ![design strategy](https://github.com/user-attachments/assets/b545ac07-cd90-4f9a-a6bb-13d9e1a51d01)
